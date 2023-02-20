@@ -1,10 +1,3 @@
----
-permalink: /
-excerpt: "About me"
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 Research interests
 ------
