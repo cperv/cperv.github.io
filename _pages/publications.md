@@ -5,12 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+Preprints
+------
+P. Chatzipantelidis and Ch. Pervolianakis, Error analysis of a backward Euler positive preserving stabilized scheme for a Chemotaxis system (available on [arXiv](https://arxiv.org/pdf/2210.04709.pdf))
+------
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+
+Journal Articles
+------
