@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-#{% include base_path %}
 
 Education
 ======
@@ -21,8 +20,7 @@ Academic experience
   * University of Crete
   * Courses included: Numerical Analysis, Numerical Solution of ODEs and Numerical Solution of PDEs 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2015: Internship
+  * Institute of Applied and Computational Mathematics, FO.R.T.H, Greece
+
  
