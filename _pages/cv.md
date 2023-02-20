@@ -20,7 +20,5 @@ Academic experience
   * University of Crete
   * Courses included: Numerical Analysis, Numerical Solution of ODEs and Numerical Solution of PDEs 
 
-* Summer 2015: Internship
-  * Institute of Applied and Computational Mathematics, FO.R.T.H, Greece
 
  
